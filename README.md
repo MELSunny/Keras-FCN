@@ -13,7 +13,7 @@ pip install opencv-python sklearn pillow imageio scikit-image matplotlib
 
 Download the dataset: 
 
-CVC-EndoSceneStill
+CVC-EndoSceneStill(http://pages.cvc.uab.es/CVC-Colon/index.php/databases/cvc-endoscenestill/)
 
 [kvasir-seg.zip](https://datasets.simula.no/kvasir-seg/)
 
